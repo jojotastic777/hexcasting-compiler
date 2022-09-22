@@ -1,0 +1,10 @@
+.CodeInputBox {
+    margin: 0;
+    padding: 1ch;
+    border: none;
+    resize: none;
+
+    background-color: #eee;
+    outline: none;
+    font-size: inherit;
+}

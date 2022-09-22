@@ -1,0 +1,5 @@
+: setup-raycast self pos self look
+
+setup-raycast raycast-block
+setup-raycast raycast-side
++ conjure-light
