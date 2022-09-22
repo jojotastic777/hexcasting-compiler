@@ -5,11 +5,13 @@ There are a *number* of problems with this compiler, including but not limited t
 
 *Most* of these issues are a result of the fact that I have *never written a compiler before.*
 
-Seriously, I have no idea what I'm doing. Send help.
-
 If, despite all those issues, you *still* want to use this, there are a couple of things you should know:
 - A list of words which compile to Hex Patterns can be found [here](src/lib/dictionary.ts).
     - Ideally, there would be more documentation than this regarding things. There *isn't*, and this iteration of things isn't likely to get any.
 - In order to use the "Bookkeeper's Gambit", make a number literal as a bitmask followed by `mask`.
     - For example, `1010 mask` compiles to `Bookkeeper's Gambit: -v-v`.
 - Functions look like `: function-name some words go here ;`.
+
+Oh yeah, and the web app can be found [here](https://jojotastic777.github.io/hexcraft-compiler/).
+
+Seriously, I have no idea what I'm doing. Send help.
