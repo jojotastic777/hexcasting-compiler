@@ -12,6 +12,6 @@ If, despite all those issues, you *still* want to use this, there are a couple o
     - For example, `1010 mask` compiles to `Bookkeeper's Gambit: -v-v`.
 - Functions look like `: function-name some words go here ;`.
 
-Oh yeah, and the web app can be found [here](https://jojotastic777.github.io/hexcraft-compiler/).
+Oh yeah, and the web app can be found [here](https://jojotastic777.github.io/hexcasting-compiler/).
 
 Seriously, I have no idea what I'm doing. Send help.
